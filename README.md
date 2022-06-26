@@ -8,7 +8,7 @@
 
 - Laravel v9.0
 - PHP v8.0
-- [rebing/graphql-laravel 8.3] (https://github.com/rebing/graphql-laravel)
+- [rebing/graphql-laravel 8.3] [https://github.com/rebing/graphql-laravel]
 - MySql 
 
 ## Alguns exemplos de mutation (insert) e query (consulta)
