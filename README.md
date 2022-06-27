@@ -10,6 +10,27 @@
 - PHP v8.0
 - [rebing/graphql-laravel 8.3] [https://github.com/rebing/graphql-laravel]
 - MySql 
+- Docker
+
+### Como rodar
+
+```
+  git clone https://github.com/vctormarques/graphql_laravel.git
+```
+
+```
+  docker-compose up -d
+```
+
+```
+  docker-compose run artisan migrate
+```
+
+```
+  docker-compose run artisan db:seed
+```
+
+- Pronto. Aplicação rodando no http://localhost:7000/graphiql
 
 ## Alguns exemplos de mutation (insert) e query (consulta)
 
